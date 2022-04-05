@@ -1,5 +1,4 @@
-##Mobile Hair Salon Backend
-This is the code 
+##Backend code 
 
 
 | Revision 1  | |
